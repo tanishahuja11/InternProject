@@ -17,7 +17,6 @@ function UsersTable () {
     setMessage('')
     setIsStatus(0)
   }
-  //   AIzaSyC8dT4lrRJXOcnlG06z4vpTMWfdubiZQuY
   useEffect(() => {
     try {
       async function fetch () {
